@@ -24,3 +24,4 @@ The project is organized into the following pages:
 
 The website is deployed and live. You can view it here:
 brilloku-photography.netlify.app
+
