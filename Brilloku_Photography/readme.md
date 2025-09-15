@@ -23,5 +23,4 @@ The project is organized into the following pages:
 ##  Live URL
 
 The website is deployed and live. You can view it here:
-
-**[Insert Your Live GitHub Pages URL Here]**
+brilloku-photography.netlify.app
